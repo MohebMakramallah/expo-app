@@ -1,4 +1,4 @@
-package com.native;
+package com.myapp;
 
 import com.facebook.react.ReactActivity;
 
